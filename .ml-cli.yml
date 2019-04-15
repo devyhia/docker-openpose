@@ -1,0 +1,2 @@
+configuration:
+  repository: !!python/unicode 'openpose'
