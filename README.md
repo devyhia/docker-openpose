@@ -17,7 +17,7 @@ Build Date: *April 14,  2019*
   ```
   2. Run the following command:
   ```
-  /build/examples/openpose/openpose.bin --image_dir /images --display 0 --render_pose 0 --write_json /images
+  /openpose/build/examples/openpose/openpose.bin --image_dir /images --display 0 --render_pose 0 --write_json /images
   ```
 
   Now, the poses will saved along with the images as json files.
